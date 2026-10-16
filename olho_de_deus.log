@@ -1,0 +1,85 @@
+2026-10-16 15:18:34,714 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 15:18:34,947 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 15:24:18,333 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 15:24:18,548 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 15:24:20,629 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 15:32:16,434 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 15:32:16,650 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 15:32:18,705 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 15:34:32,101 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 15:34:32,318 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 15:34:34,446 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 15:39:02,732 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 15:39:02,961 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 15:39:05,080 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 15:41:09,144 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 15:41:09,362 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 15:41:11,404 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 15:41:14,409 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-10-16 15:41:14,577 - src.hitl.dashboard_server - INFO - Iniciando Olho de Deus API v3.0...
+2026-10-16 15:41:14,593 - src.hitl.dashboard_server - WARNING - ⚠️ Banco de dados não disponível: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Incident.metadata has an attribute 'create_all'
+2026-10-16 15:41:14,608 - src.hitl.dashboard_server - INFO - Usando armazenamento em memória como fallback
+2026-10-16 15:41:14,624 - src.hitl.dashboard_server - INFO - Componentes inicializados
+2026-10-16 15:41:37,250 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 15:41:37,438 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 15:41:37,836 - src.hitl.dashboard_server - INFO - GET /favicon.ico
+2026-10-16 15:41:37,841 - src.hitl.dashboard_server - INFO - Response: 404
+2026-10-16 15:44:17,790 - src.hitl.dashboard_server - INFO - GET /docs
+2026-10-16 15:44:17,814 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 15:44:20,689 - src.hitl.dashboard_server - INFO - GET /openapi.json
+2026-10-16 15:44:21,354 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 15:52:39,693 - src.hitl.dashboard_server - INFO - GET /dashboard
+2026-10-16 15:52:39,852 - src.hitl.dashboard_server - INFO - Response: 404
+2026-10-16 15:55:48,685 - src.hitl.dashboard_server - INFO - GET /api/v1/hitl/decisions/cameras
+2026-10-16 15:55:49,024 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:00:43,718 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 16:00:43,925 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 16:00:45,903 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 16:00:48,844 - src.hitl.dashboard_server - INFO - Iniciando Olho de Deus API v3.0...
+2026-10-16 16:00:48,844 - src.hitl.dashboard_server - WARNING - ⚠️ Banco de dados não disponível: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Incident.metadata has an attribute 'create_all'
+2026-10-16 16:00:48,844 - src.hitl.dashboard_server - INFO - Usando armazenamento em memória como fallback
+2026-10-16 16:00:48,854 - src.hitl.dashboard_server - INFO - Componentes inicializados
+2026-10-16 16:05:54,070 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 16:05:54,270 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 16:05:56,351 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 16:05:59,333 - src.hitl.dashboard_server - INFO - Iniciando Olho de Deus API v3.0...
+2026-10-16 16:05:59,333 - src.hitl.dashboard_server - WARNING - ⚠️ Banco de dados não disponível: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Incident.metadata has an attribute 'create_all'
+2026-10-16 16:05:59,333 - src.hitl.dashboard_server - INFO - Usando armazenamento em memória como fallback
+2026-10-16 16:05:59,333 - src.hitl.dashboard_server - INFO - Componentes inicializados
+2026-10-16 16:05:59,348 - src.hitl.dashboard_server - INFO - Fechando aplicação...
+2026-10-16 16:03:09,475 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 16:13:17,092 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:13:17,101 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 16:13:17,124 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 16:13:17,134 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:13:17,134 - src.hitl.dashboard_server - INFO - GET /api/v1/video/feed
+2026-10-16 16:13:17,155 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:13:17,155 - src.hitl.dashboard_server - INFO - Response: 404
+2026-10-16 16:13:17,166 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 16:13:17,166 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 16:13:17,176 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:13:17,187 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:13:59,850 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 16:13:59,869 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:21:55,608 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 16:21:55,821 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 16:21:57,842 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 16:22:00,978 - src.hitl.dashboard_server - INFO - Iniciando Olho de Deus API v3.0...
+2026-10-16 16:22:00,994 - src.hitl.dashboard_server - WARNING - ⚠️ Banco de dados não disponível: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Incident.metadata has an attribute 'create_all'
+2026-10-16 16:22:00,994 - src.hitl.dashboard_server - INFO - Usando armazenamento em memória como fallback
+2026-10-16 16:22:01,009 - src.hitl.dashboard_server - INFO - Componentes inicializados
+2026-10-16 16:39:05,541 - __main__ - INFO - Configuração carregada: config.yaml
+2026-10-16 16:39:05,781 - __main__ - INFO - Iniciando API em 0.0.0.0:8000
+2026-10-16 16:39:08,103 - src.cloud.api.middleware.auth - WARNING - ⚠️ JWT_SECRET não definido em variável de ambiente. Um segredo temporário foi gerado. Para produção, defina JWT_SECRET no .env
+2026-10-16 16:39:12,161 - src.hitl.dashboard_server - INFO - Iniciando Olho de Deus API v3.0...
+2026-10-16 16:39:12,172 - src.hitl.dashboard_server - WARNING - ⚠️ Banco de dados não disponível: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Incident.metadata has an attribute 'create_all'
+2026-10-16 16:39:12,172 - src.hitl.dashboard_server - INFO - Usando armazenamento em memória como fallback
+2026-10-16 16:39:12,172 - src.hitl.dashboard_server - INFO - Componentes inicializados
+2026-10-16 16:43:44,183 - src.hitl.dashboard_server - INFO - GET /
+2026-10-16 16:43:44,348 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:43:45,234 - src.hitl.dashboard_server - INFO - GET /favicon.ico
+2026-10-16 16:43:45,241 - src.hitl.dashboard_server - INFO - Response: 404
+2026-10-16 16:45:11,830 - src.hitl.dashboard_server - INFO - GET /docs
+2026-10-16 16:45:11,834 - src.hitl.dashboard_server - INFO - Response: 200
+2026-10-16 16:45:14,911 - src.hitl.dashboard_server - INFO - GET /openapi.json
+2026-10-16 16:45:15,582 - src.hitl.dashboard_server - INFO - Response: 200
